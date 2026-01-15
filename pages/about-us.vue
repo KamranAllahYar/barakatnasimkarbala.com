@@ -39,7 +39,7 @@
             to keep our collaborations firm and mutually beneficial over the long term. In return, we respectfully ask
             for the same level of commitment from our partners, ensuring a balanced and enduring partnership.
           </div>
-          <div class="w-11/12 sm:w-10/12 grid grid-cols-1 sm:grid-cols-8  gap-4 mt-8">
+          <div class="hidden w-11/12 sm:w-10/12 grid grid-cols-1 sm:grid-cols-8  gap-4 mt-8">
             <img src="/aboutus1.jpg" alt="image"
                  class="col-span-6 p-0 px-0 py-0 object-cover w-full h-[210px] rounded-2xl"/>
             <img src="/aboutus3.png" alt="image"

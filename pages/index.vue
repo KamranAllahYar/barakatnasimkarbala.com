@@ -81,17 +81,17 @@
         <div class="w-full flex flex-col justify-center">
           <div class="flex justify-center text-6xl text-yellow-400 mt-10 mb-4">Our Brands</div>
           <div
-              class="w-full grid grid-cols-1 sm:grid-cols-3 gap-4 brand-icons border border-yellow-400 rounded-2xl mt-10">
+              class="w-full grid grid-cols-1 sm:grid-cols-2 gap-4 brand-icons border border-yellow-400 rounded-2xl mt-10">
             <div class="w-full flex justify-center items-center">
               <img src="/brand1.png"
                    class="w-[230px] h-[255px] items-center transition-transform duration-300 ease-in-out hover:scale-110"
                    alt="Moving Image"/>
             </div>
-            <div class="w-full flex justify-center items-center">
-              <img src="/rustam_logo.jpg"
-                   class="w-[280px] h-[220px] object-cover rounded-2xl items-center mt-5 transition-transform duration-300 ease-in-out hover:scale-110"
-                   alt="Moving Image"/>
-            </div>
+<!--            <div class="w-full flex justify-center items-center">-->
+<!--              <img src="/rustam_logo.jpg"-->
+<!--                   class="w-[280px] h-[220px] object-cover rounded-2xl items-center mt-5 transition-transform duration-300 ease-in-out hover:scale-110"-->
+<!--                   alt="Moving Image"/>-->
+<!--            </div>-->
             <div class="w-full flex justify-center items-center">
               <img src="/brand2.png"
                    class="w-[220px] h-[270px] items-center mt-5 transition-transform duration-300 ease-in-out hover:scale-110"

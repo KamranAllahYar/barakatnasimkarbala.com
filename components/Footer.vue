@@ -8,7 +8,7 @@
             <img src="/uae.png" class="w-[30px] h-[30px] items-center transition-transform duration-300 ease-in-out hover:scale-110" alt="Moving Image"/>
             <img src="/india.png" class="w-[30px] h-[30px] items-center transition-transform duration-300 ease-in-out hover:scale-110" alt="Moving Image"/>
             <img src="/iraq.png" class="w-[30px] h-[30px] items-center transition-transform duration-300 ease-in-out hover:scale-110" alt="Moving Image"/>
-            <img src="/syria.png" class="w-[30px] h-[30px] items-center transition-transform duration-300 ease-in-out hover:scale-110" alt="Moving Image"/>
+<!--            <img src="/syria.png" class="w-[30px] h-[30px] items-center transition-transform duration-300 ease-in-out hover:scale-110" alt="Moving Image"/>-->
             <img src="/brazil.png" class="w-[30px] h-[30px] items-center transition-transform duration-300 ease-in-out hover:scale-110" alt="Moving Image"/>
           </div>
         </div>
@@ -30,6 +30,13 @@
           </div>
           <div class="text-gray-600 hover:text-black">
             <a href="mailto:barakatnasimkarbala8@gmail.com">barakatnasimkarbala8@gmail.com</a>
+          </div>
+          <div class="text-gray-600 flex flex-row flex-gap2 hover:text-black" style="margin-left: -26px">
+            <img src="/whatsapp.png" class="w-6" alt="Whatsapp"/>
+            <a style="cursor: pointer" @click="openWhatsAppChat('+91 9205711872')">+91 9205711872</a>
+          </div>
+          <div class="text-gray-600 hover:text-black">
+            <a href="mailto:barakatnasimkarbala9@gmail.com">barakatnasimkarbala9@gmail.com</a>
           </div>
         </div>
 <!--        <div class="w-full flex flex-col">-->

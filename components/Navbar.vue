@@ -1,9 +1,9 @@
 <template>
   <div
       class="fixed w-full px-6 md:px-0 z-10 top-0 h-auto bg-black/70 grid grid-cols-2 md:grid-cols-3 text-yellow-400 backdrop-blur justify-between">
-    <div class="flex self-start p-2 sm:p-4">
+    <NuxtLink to="/" class="flex self-start p-2 sm:p-4">
       <img src="/logo.png" alt="logo" class="w-14 ml-0 md:ml-10 p-2 sm:p-0"/>
-    </div>
+    </NuxtLink>
     <div class="hidden gap-10 font-bold items-center justify-center md:flex">
       <div>
         <ul class="pointer flex cursor-pointer gap-6 font-large tracking-wider">

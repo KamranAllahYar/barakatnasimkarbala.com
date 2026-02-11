@@ -7,10 +7,14 @@ export default defineNuxtConfig({
         preference: 'light'
     },
     app: {
+        baseURL: '/',
         head: {
             link: [
                 {rel: 'icon', type: 'image/png', href: '/logo.png'},
             ]
         }
+    },
+    nitro: {
+        preset: 'github-pages'
     }
 })

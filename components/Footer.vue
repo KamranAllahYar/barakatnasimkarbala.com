@@ -28,12 +28,12 @@
             <img src="/whatsapp.png" class="w-6" alt="Whatsapp"/>
             <a style="cursor: pointer" @click="openWhatsAppChat('+964 7862908135')">+964 7862908135</a>
           </div>
-          <div class="text-gray-600 hover:text-black">
-            <a href="mailto:barakatnasimkarbala8@gmail.com">barakatnasimkarbala8@gmail.com</a>
-          </div>
           <div class="text-gray-600 flex flex-row flex-gap2 hover:text-black" style="margin-left: -26px">
             <img src="/whatsapp.png" class="w-6" alt="Whatsapp"/>
             <a style="cursor: pointer" @click="openWhatsAppChat('+91 9205711872')">+91 9205711872</a>
+          </div>
+          <div class="text-gray-600 hover:text-black">
+            <a href="mailto:barakatnasimkarbala8@gmail.com">barakatnasimkarbala8@gmail.com</a>
           </div>
           <div class="text-gray-600 hover:text-black">
             <a href="mailto:barakatnasimkarbala9@gmail.com">barakatnasimkarbala9@gmail.com</a>
